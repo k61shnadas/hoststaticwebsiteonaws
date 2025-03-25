@@ -1,0 +1,2 @@
+# hoststaticwebsiteonaws
+hoststaticwebsiteonaws
